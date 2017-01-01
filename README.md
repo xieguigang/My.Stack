@@ -1,5 +1,7 @@
 ## 我的技術棧
 
+自己在github上面连续的coding也快要满一年了，在这里对自己在github上面的这一年做一下总结
+
 虽然自己在2014年就已经注册了github账号，但是从去年的一月份开始才开始在github上面写代码，算起来也只是一个github上面的真正算起来才1年经验一个新嫩。每天都在往github上面提交commit，因为想要下决心把contribution里面的所有的方块都要填满去。填坑填了一年的时间，手机上面的小挂件早就被我给填满了，网页上面的还差一个月才能够被填满。
 
 ![](./images/phone.png)
@@ -28,15 +30,17 @@
 ### 2. 计算框架
 > [sciBASIC#](https://github.com/xieguigang/sciBASIC): Microsoft VisualBasic for Scientific Computing
 
-在最开始的时候自己想要写出来的是一个适用于VB的一个非常通用的应用程序代码库，但是后来发现以自己的一个人的力量也很难覆盖到软件开发的方方面面，毕竟古人说得好“**术业有专攻**”。于是在10月份的时候决定专攻数据分析领域的方向，大概在11月份的时候想到了一个很好的名字sciBASIC#，Scientific VisualBasic.NET的缩写，取名的灵感来自于python语言里面的scipy包，至于后面加个``#``号，是因为.NET语言或者基于.NET开发出来组件库都会喜欢以``sharp``结尾来将自己区别于非微软系的其他语言的代码库。
+在最开始的时候自己想要写出来的是一个适用于VB的一个非常通用的应用程序代码库，但是后来发现以自己的一个人的力量也很难覆盖到软件开发的方方面面，毕竟古人说得好“**术业有专攻**”。于是在10月份的时候决定专攻数据分析领域的方向，大概在11月份的时候想到了一个很好的名字``sciBASIC#``，Scientific VisualBasic.NET的缩写，取名的灵感来自于python语言里面的scipy包，至于后面加个**``#``**号，是因为.NET语言或者基于.NET开发出来组件库都会喜欢以``sharp``结尾来将自己区别于非微软系的其他语言的代码库。
 
 这里面包括了一个非常不错的基于``csv``文件的数据框架系统，一个非常好的命令行解释器，基于GDI+的包括2维作图以及3维作图的代码库。在北京的时候写的进行论文数据Chartting作图的代码库，一个动力学系统模拟计算的分析框架和一个非常好用的常微分方程组的积分器。
 
 ### 3. 生物大数据云计算平台
+> [GCModeller](http://gcmodeller.org): genomics CAD(Computer Assistant Design) Modeller system in .NET language
 
 ``GCModeller``工具到目前为止大抵上也是我自己最自豪的项目了
 
 
-> 谢桂纲
-> 2017年1月1日
-> http://stack.xieguigang.me/
+> 谢桂纲<br/>
+> 写于2017年1月1日
+
+![](./images/stack.xieguigang.me.png)
