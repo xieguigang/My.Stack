@@ -17,7 +17,7 @@
 使用VB做Azure云计算和超算应用开发是一件很爽也很酷的事情
 
 ![](./images/vb_azure.png)
-![](./xieguigang的技術棧.png)
+![](./xieguigang-my_tech_stack.png)
 
 ## 我的技术栈
 
