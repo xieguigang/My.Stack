@@ -25,7 +25,9 @@
 
 ### 1. Web开发
 
-在今年8月份的时候自己也写出了一个差不多的Web服务器环境，还附加了一些``D3.js``相关的数据源工具。
+我的Web开发的技能局限于用javascript进行一些基于SVG的数据可视化开发，可以看见Web开发只占据了我的技术栈的右下区域很小的一部分，大抵也是因为自己的工作之中也对web开发没有太多的需求。在今年8月份的时候自己也写出了一个差不多的Web服务器环境，还附加了一些``D3.js``相关的数据源工具。
+
+![](./images/D3.png)
 
 ### 2. 计算框架
 > [sciBASIC#](https://github.com/xieguigang/sciBASIC): Microsoft VisualBasic for Scientific Computing
