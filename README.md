@@ -36,11 +36,14 @@
 
 这里面包括了一个非常不错的基于``csv``文件的数据框架系统，一个非常好的命令行解释器，基于GDI+的包括2维作图以及3维作图的代码库。在北京的时候写的进行论文数据Chartting作图的代码库，一个动力学系统模拟计算的分析框架和一个非常好用的常微分方程组的积分器。
 
+![](./images/3d-heatmap.png)
+
 ### 3. 生物大数据云计算平台
 > [GCModeller](http://gcmodeller.org): genomics CAD(Computer Assistant Design) Modeller system in .NET language
 
 ``GCModeller``工具到目前为止大抵上也是我自己最自豪的项目了
 
+![](./images/GCModeller.png)
 
 > 谢桂纲<br/>
 > 写于2017年1月1日
