@@ -1,5 +1,3 @@
-<font face="Microsoft YaHei">
-
 ## xieguigang的技术栈
 
 自己在github上面连续的coding也快要满一年了，在新年的最开始，这里对自己在github上面的这一年做一下总结。
@@ -97,5 +95,3 @@ GCModeller平台是基于我自己的``sciBASIC#``框架而开发出来的数据
 > 写于2017年1月1日
 
 ![](./images/stack.xieguigang.me.png)
-
-</font>
