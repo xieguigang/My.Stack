@@ -1,5 +1,7 @@
 ## xieguigang的技术栈
 
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=825576&auto=1&height=66"></iframe>
+
 自己在github上面连续的coding也快要满一年了，在新年的最开始，这里对自己在github上面的这一年做一下总结。
 
 虽然自己在2014年就已经注册了github账号，但是从去年(2016年)的一月份开始才开始在github上面写代码，算起来也只是一个github上面的真正算起来才1年经验一个新嫩。每天都在往github上面提交commit，因为想要下决心把contribution里面的所有的方块都要填满去。填坑填了一年的时间，手机上面的小挂件里面的灰格子早就被我给填满了，网页上面的还差一个月才能够被填满。
